@@ -6,4 +6,5 @@ Using this command will also refresh the DHCP and DNS settings.
 First, type "cmd" in the Windows search bar, then run it as an administrator.
 ![Number 1](https://xedricity.com/static/images/How%20to%20open%20command%20prompt%20as%20administrator.jpg)
 You should see something similar to this:
+
 ![Number 2](https://media.geeksforgeeks.org/wp-content/uploads/20200318174134/How-cmd-looks.png)
