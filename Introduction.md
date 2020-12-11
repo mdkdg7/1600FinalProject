@@ -4,4 +4,4 @@ Using this command will also refresh the DHCP and DNS settings.
 *This tutorial will be based on Windows computers*
 ## So? Let's get started.
 First, type "cmd" in the Windows search bar.
-![Number 1}(https://www.google.com/url?sa=i&url=https%3A%2F%2Fxedricity.com%2Fhow-to-activate-microsoft-office-2013-2016-2017-2010-using-cmd&psig=AOvVaw1QznB_TG3nWKz-txzGuiL_&ust=1607814020576000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiS8pOEx-0CFQAAAAAdAAAAABAW)
+![Number 1}(https://xedricity.com/static/images/How%20to%20open%20command%20prompt%20as%20administrator.jpg)
