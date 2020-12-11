@@ -9,3 +9,8 @@ Another is "ipconfig /flushdns"
 This parameter will reset the DNS client cache.
 
 ![Number6](http://dc9wlm4wphap8.cloudfront.net/support/wp-content/uploads/2013/04/flush1.png)
+
+The final parameter I am going to show, although there are many more, is the "ipconfig /?" parameter.
+This will display help for the user.
+
+![Number7](https://www.onlinecomputertips.com/images/networking/n147.jpg)
