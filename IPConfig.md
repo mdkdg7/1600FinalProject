@@ -10,3 +10,5 @@ Here you can see some information about all of the network connections on your c
 We can take it a step further, and run the command "ipconfig /all".
 
 ![Number 4](https://i.stack.imgur.com/Nx5nH.jpg)
+
+This will give you more information than the regular ipconfig command, including the MAC address for every adapter.
